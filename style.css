@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&display=swap');
+
+.heading {
+  width: 100%;
+  margin: 0px;
+  box-shadow: 5px 5px 5px grey;
+  font-size: 30px;
+  font-family: 'Chela One', cursive;
+}
+
+.heading_div {
+  background: white;
+  border-radius: 20px;
+  color: black;
+  box-shadow: 5px 5px 5px grey;
+  float: none;
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 24px;
+}
+
+.heading_div2 {
+  font-size: 18px;
+  float: none;
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+
+.result_para_tag {
+  box-shadow: 5px 5px 5px grey;
+  font-size: 20px;
+  white-space: pre-line;
+}
+
+canvas{
+  border-radius: 10px;
+  box-shadow: 2px 2px 50px grey;
+  border: 10px wheat solid;
+}
+
+.copy_right_footer{
+  background-color: rgb(85, 85, 85);
+  color: white;
+  height: 60px;
+  line-height: 20px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-family: 'Delius Swash Caps', cursive;
+}
